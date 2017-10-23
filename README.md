@@ -11,7 +11,7 @@
    * Search: `O(n)`
    * Insert: `O(1)`
    * Remove: `O(1)`
-Detail: [Linked List](http://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+* Detail: [Linked List](http://www.geeksforgeeks.org/linked-list-set-1-introduction/)
 
 ### Stack
  * A *Stack* is a collection of elements, with two principle operations: *push*, which adds to the collection, and
