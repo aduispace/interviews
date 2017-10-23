@@ -7,10 +7,11 @@
  * **Doubly-linked list**: linked list in which each node has two pointers p, n such that p points to the previous node and n points to the next node; the last node's n pointer points to null
  * **Circular-linked list**: linked list in which each node points to the next node and the last node points back to the first node
  * Time Complexity:
-   * Access: `O(n)`
+   * Access: `O(n)`, cannot randomly access, no index
    * Search: `O(n)`
    * Insert: `O(1)`
    * Remove: `O(1)`
+Detail: [Linked List](http://www.geeksforgeeks.org/linked-list-set-1-introduction/)
 
 ### Stack
  * A *Stack* is a collection of elements, with two principle operations: *push*, which adds to the collection, and
