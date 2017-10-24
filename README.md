@@ -11,7 +11,7 @@
    * Search: `O(n)`
    * Insert: `O(1)`
    * Remove: `O(1)`
-* Detail: [Linked List](http://www.geeksforgeeks.org/linked-list-set-1-introduction/)
+* Detail from GeekF: [Linked List](http://www.geeksforgeeks.org/linked-list-set-1-introduction/)
 
 ### Stack
  * A *Stack* is a collection of elements, with two principle operations: *push*, which adds to the collection, and
@@ -248,6 +248,7 @@ or equal to those of the children and the lowest key is in the root node
     * Using this algorithm, we arrive at a total of 4 coins which is optimal
 
 ## Bitmasks
+* Java位操作看：[here](http://blog.csdn.net/xiaochunyong/article/details/7748713)
 * Bitmasking is a technique used to perform operations at the bit level. Leveraging bitmasks often leads to faster runtime complexity and
   helps limit memory usage
 * Test kth bit: `s & (1 << k);`
